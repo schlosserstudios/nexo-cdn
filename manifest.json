@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "files": [
+        {
+            "path": "files/test.txt",
+            "url": "https://SEU-USUARIO.github.io/nexo-cdn/files/test.txt",
+            "size": 18,
+            "sha256": "COLOQUE_O_HASH_AQUI"
+        }
+    ]
+}
