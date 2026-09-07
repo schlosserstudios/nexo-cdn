@@ -1,11 +1,11 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "files": [
         {
             "path": "files/test.txt",
             "url": "https://schlosserstudios.github.io/nexo-cdn/files/test.txt",
             "size": 9,
-            "sha256": "DE677068099B9872DC10A37CCC059CCD5C64D79E3A35393F2E57D1DEAEC05E82"
+            "sha256": "EC60CB110FF4106BBBDF1849009F32670AD68C12884FFC04E5438E11300F26A9"
         }
     ]
 }
