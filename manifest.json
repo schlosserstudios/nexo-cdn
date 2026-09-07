@@ -4,8 +4,8 @@
         {
             "path": "files/test.txt",
             "url": "https://schlosserstudios.github.io/nexo-cdn/files/test.txt",
-            "size": 17,
-            "sha256": "A8D645060099662D53DA0E341CD4BCAE7FFD8D4850CA638241C10C84FEFDDF3C"
+            "size": 8,
+            "sha256": "791E0F047CB52BD6D2BC7409D9F89DC686DE2D6027953AE48F58BF0D0B98C281"
         }
     ]
 }
